@@ -4,6 +4,8 @@ Using ABB Yumi Robot in writing
 
 ## Demo
 
+![alt text](TN.06.png)
+
 https://drive.google.com/file/d/15mG0RovztsZ2CQ_EnZmL90GmyiOEWcgO/view?usp=sharing
  
 
